@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Programming/Python/Deep%20Learning/Kidney-Disease-Classification-MLFlow/mlruns/0/754b264fe86a4d39930290d4c67b0605/artifacts
+end_time: 1711014974401
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 754b264fe86a4d39930290d4c67b0605
+run_name: honorable-bass-238
+run_uuid: 754b264fe86a4d39930290d4c67b0605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711014954731
+status: 3
+tags: []
+user_id: Veera
