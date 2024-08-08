@@ -1,4 +1,4 @@
-# End-to-End-Chest-Cancer-Classification-using-MLflow-DVC
+# End-to-End-Kidney-Disease-Classification-using-MLflow-DVC
 
 
 ## Workflows
